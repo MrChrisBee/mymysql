@@ -25,7 +25,7 @@
      showgrid="false"
      inkscape:zoom="0.74029882"
      inkscape:cx="396.46153"
-     inkscape:cy="561.93525"
+     inkscape:cy="345.8063"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -123,18 +123,31 @@
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="16.327829"
-       y="44.976654"
+       x="14.183425"
+       y="41.760048"
        id="text1812-0"><tspan
          sodipodi:role="line"
          id="tspan1810-3"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
-         x="16.327829"
-         y="44.976654">INNER Join</tspan><tspan
+         x="14.183425"
+         y="41.760048">INNER Join</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="16.327829"
-         y="53.796104"
+         x="14.183425"
+         y="50.579498"
          id="tspan7688-4">nur Elemente die in beiden Tabellen vorhanden sind</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="24.303247"
+       y="62.545124"
+       id="text20018"><tspan
+         sodipodi:role="line"
+         id="tspan20016"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="24.303247"
+         y="62.545124"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan25450">Natural Join</tspan> auch ein inner join der auf gleiche Felder prüft</tspan></text>
   </g>
 </svg>
