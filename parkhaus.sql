@@ -1,7 +1,7 @@
 DROP DATABASE parkhaus;
 ## Hallo
 CREATE DATABASE parkhaus;
-
+## noch ein hallo
 USE parkhaus;
 
 CREATE TABLE mitarbeiter (
