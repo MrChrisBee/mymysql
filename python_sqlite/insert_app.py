@@ -25,15 +25,13 @@ mycursor.execute(sql_statement)
 # tupel tech
 sql_statement = f"INSERT INTO mitarbeiter (m_name,m_alter) VALUES (?,?)"
 data = ('ana', 35)
-
 mycursor.execute(sql_statement, data)
 
-
 # 4b Commit it, gut merken!
-
 db.commit()
-
 
 # 5 get Data
 result = mycursor.fetchall()
 print(result)
+
+#Zum Lesen aus dem Buch:3,4,7,8,9,10.2,11,12,17,18,19
