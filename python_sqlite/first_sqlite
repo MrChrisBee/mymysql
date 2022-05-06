@@ -2,5 +2,6 @@ import sqlite3;
 
 #create connection
 conn1 = sqlite3.connect("my1st.db")
-
+cursor = connection.server()    
+cursor.execute("create table teszumi1(id int, name text)")
 conn1.close()
